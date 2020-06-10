@@ -1,0 +1,8 @@
+variable "blocks" {
+
+}
+
+variable "name" {
+  
+}
+
