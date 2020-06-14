@@ -1,0 +1,9 @@
+---
+# vars file for instances
+instance_type: t2.micro
+sec_name: kubernets
+image: ami-0e84e211558a022c0
+keypair: my_key
+region: us-east-2
+profile: kubernetes
+count: 3
